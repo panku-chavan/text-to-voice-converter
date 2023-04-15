@@ -10,6 +10,8 @@
 
 # production
 /build
+/src/Redux
+/src/Redux/CounterComponents.jsx
 
 # misc
 .DS_Store

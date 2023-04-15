@@ -5,9 +5,28 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(201, 165, 185);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.voice h1{
+  font-family:Georgia, 'Times New Roman', Times, serif,;
+  color: rgb(42, 75, 77);
+  
+}
+.voice textarea{
+  color: rgb(37, 15, 18);
+  font-weight:1000;
+  background-color: rgb(201, 165, 185);
+  border: 2px solid rgb(42, 75, 77);
+  border-radius: 10px;
+  padding: 3px;
+}
+.voice button{
+  color: rgb(42, 75, 77);
+  background-color: rgb(236, 213, 213);
+  border-radius: 5px;
 }
